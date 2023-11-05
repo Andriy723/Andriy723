@@ -8,7 +8,8 @@
 ### Connect with me:
 
 <a href="[https://www.instagram.com/thepiyushmalhotra/](https://www.youtube.com/channel/UCSvIzCteyZh9sVV9oPVU42w)">
-[![website](./images/youtube-dark.svg)]([[https://youtube.com/codestackr](https://www.youtube.com/channel/UCSvIzCteyZh9sVV9oPVU42w)](https://www.youtube.com/channel/UCSvIzCteyZh9sVV9oPVU42w))
+  
+<img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
 </a>
 &nbsp;&nbsp;
 [![website](./images/linkedin-dark.svg)]([[https://linkedin.com/in/codeSTACKr](https://www.linkedin.com/in/%D0%B0%D0%BD%D0%B4%D1%80%D1%96%D0%B9-%D0%BF%D0%BB%D1%96%D1%88-0bb1b124b/)](https://www.linkedin.com/in/%D0%B0%D0%BD%D0%B4%D1%80%D1%96%D0%B9-%D0%BF%D0%BB%D1%96%D1%88-0bb1b124b/)#gh-dark-mode-only)
