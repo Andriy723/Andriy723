@@ -7,13 +7,10 @@
 
 ### Connect with me:
 
-[![website](./images/youtube-light.svg)]([https://youtube.com/codestackr](https://www.youtube.com/channel/UCSvIzCteyZh9sVV9oPVU42w))
-[![website](./images/youtube-dark.svg)]([https://youtube.com/codestackr](https://www.youtube.com/channel/UCSvIzCteyZh9sVV9oPVU42w))
+[![website](./images/youtube-dark.svg)]([[https://youtube.com/codestackr](https://www.youtube.com/channel/UCSvIzCteyZh9sVV9oPVU42w)](https://www.youtube.com/channel/UCSvIzCteyZh9sVV9oPVU42w))
 &nbsp;&nbsp;
-[![website](./images/linkedin-light.svg)]([https://linkedin.com/in/codeSTACKr](https://www.linkedin.com/in/%D0%B0%D0%BD%D0%B4%D1%80%D1%96%D0%B9-%D0%BF%D0%BB%D1%96%D1%88-0bb1b124b/)#gh-light-mode-only)
-[![website](./images/linkedin-dark.svg)]([https://linkedin.com/in/codeSTACKr](https://www.linkedin.com/in/%D0%B0%D0%BD%D0%B4%D1%80%D1%96%D0%B9-%D0%BF%D0%BB%D1%96%D1%88-0bb1b124b/)#gh-dark-mode-only)
+[![website](./images/linkedin-dark.svg)]([[https://linkedin.com/in/codeSTACKr](https://www.linkedin.com/in/%D0%B0%D0%BD%D0%B4%D1%80%D1%96%D0%B9-%D0%BF%D0%BB%D1%96%D1%88-0bb1b124b/)](https://www.linkedin.com/in/%D0%B0%D0%BD%D0%B4%D1%80%D1%96%D0%B9-%D0%BF%D0%BB%D1%96%D1%88-0bb1b124b/)#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./images/instagram-light.svg)](https://instagram.com/cu_cum_beer#gh-light-mode-only)
 [![website](./images/instagram-dark.svg)](https://instagram.com/cu_cum_beer#gh-dark-mode-only)
 
 <br>
