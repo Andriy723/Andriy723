@@ -7,7 +7,9 @@
 
 ### Connect with me:
 
+<a href="[https://www.instagram.com/thepiyushmalhotra/](https://www.youtube.com/channel/UCSvIzCteyZh9sVV9oPVU42w)">
 [![website](./images/youtube-dark.svg)]([[https://youtube.com/codestackr](https://www.youtube.com/channel/UCSvIzCteyZh9sVV9oPVU42w)](https://www.youtube.com/channel/UCSvIzCteyZh9sVV9oPVU42w))
+</a>
 &nbsp;&nbsp;
 [![website](./images/linkedin-dark.svg)]([[https://linkedin.com/in/codeSTACKr](https://www.linkedin.com/in/%D0%B0%D0%BD%D0%B4%D1%80%D1%96%D0%B9-%D0%BF%D0%BB%D1%96%D1%88-0bb1b124b/)](https://www.linkedin.com/in/%D0%B0%D0%BD%D0%B4%D1%80%D1%96%D0%B9-%D0%BF%D0%BB%D1%96%D1%88-0bb1b124b/)#gh-dark-mode-only)
 &nbsp;&nbsp;
