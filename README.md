@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andrii</h1>
 
-<h3 align="center">A student from LPNU from Ukraine</h3>
+<h3 align="center">A student of LPNU from Ukraine</h3>
 
 
 <div id="header" align="center">
