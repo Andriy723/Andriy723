@@ -89,3 +89,7 @@
 <img width="52.7%" src="https://github-readme-stats.vercel.app/api?username=Andriy723&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="Andriy723" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Andriy723&theme=highcontrast&hide_border=true" alt="Andriy723" />
 </p>
+
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
