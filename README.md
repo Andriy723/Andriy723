@@ -55,7 +55,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> 
   </a> 
-  <img src="https://weather-icon.journeyad.repl.co/@shenzhen?v=1" align="right" width="100" height="100">
+  <img src="https://weather-icon.journeyad.repl.co/@shenzhen?v=1" align="right" width="150" height="100">
 
 <br>
   
