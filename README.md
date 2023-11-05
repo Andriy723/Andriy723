@@ -1,10 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
-<h1 align="center">
-  I`m Andrii
-</h1>
-<h3 align="center">A student of LPNU from Ukraine</h3>
+<h2 align="center"> I`m Andrii!<br>A student of LPNU from Ukraine</h2>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
