@@ -6,6 +6,7 @@
 <br>
 
 ## Connect with me:
+<div align="center">
 <h2 align="left">
 <a href="https://www.instagram.com/cu_cum_beer/">
   <img height="30" src="./images/instagram-dark.svg"/>
@@ -17,9 +18,6 @@
   <img height="30" src="./images/linkedin-dark.svg"/>
 </a>
 </h2>
-
-
-<div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
