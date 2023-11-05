@@ -7,7 +7,7 @@
 
 ### Connect with me:
   
-<p align="center">
+<p align="left">
 <a href="https://www.instagram.com/cu_cum_beer/">
   <img height="40" src="./images/instagram-dark.svg"/>
 </a>
