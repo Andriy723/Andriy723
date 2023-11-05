@@ -6,7 +6,7 @@
 <br>
 
 <p>
-  <img src="https://weather-icon.journeyad.repl.co/@shenzhen?v=1" align="center">
+  <img src="https://weather-icon.journeyad.repl.co/@shenzhen?v=1" align="right">
 </p>
 
 <br><br>
