@@ -17,7 +17,7 @@
   <img height="30" src="./images/linkedin-dark.svg"/>
 </a>
   <div align="right">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img width="60%" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
   </div>
 </div>
 
