@@ -5,12 +5,6 @@
 
 <br>
 
-<p>
-  <img src="https://weather-icon.journeyad.repl.co/@shenzhen?v=1" align="center">
-</p>
-
-<br><br>
-
 ## Connect with me:
   
 <p align="left">
@@ -78,6 +72,12 @@
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
   </a> 
 </p>
+
+<p>
+  <img src="https://weather-icon.journeyad.repl.co/@shenzhen?v=1" align="right">
+</p>
+
+<br><br>
 
 <br>
 
