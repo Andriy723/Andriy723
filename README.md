@@ -5,7 +5,7 @@
 
 <br>
 
-## Connect with me:
+<h2> Connect with me: </h2>
   
 <p align="left">
 <a href="https://www.instagram.com/cu_cum_beer/">
