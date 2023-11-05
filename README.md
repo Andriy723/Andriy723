@@ -3,8 +3,8 @@
 <h3 align="center">A student of LPNU from Ukraine</h3>
 
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 
@@ -14,10 +14,6 @@
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Andriy723&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="Andriy723" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Andriy723&theme=highcontrast&hide_border=true" alt="Andriy723" />
 </p>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
