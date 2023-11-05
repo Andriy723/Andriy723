@@ -16,10 +16,11 @@
   <a href="https://www.linkedin.com/in/%D0%B0%D0%BD%D0%B4%D1%80%D1%96%D0%B9-%D0%BF%D0%BB%D1%96%D1%88-0bb1b124b/">
   <img height="30" src="./images/linkedin-dark.svg"/>
 </a>
-  <div align="right">
+</div>
+
+<div align="right">
   <img width="60%" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
   </div>
-</div>
 
 <br><br>
 
