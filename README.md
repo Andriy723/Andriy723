@@ -8,8 +8,6 @@
 </div>
 
 
-![GitHub Activity Graph](https://cdn.hackernoon.com/images/cl-0-trqiv-904-gq-0-as-63-xgab-2-dm.jpg)
-
 ## Stats📈
 <p align="center">
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Andriy723&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="Andriy723" /> 
@@ -40,4 +38,4 @@
     </p>
 
 
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=rahuldkjain&show_icons=true alt=rahuldkjain /> </p>
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=Andriy723&show_icons=true alt=Andriy723 /> </p>
