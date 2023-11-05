@@ -2,6 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
 <h2 align="center"> I`m Andrii!<br>A student of LPNU from Ukraine</h2>
+
 <br>
 
 <div align="center">
