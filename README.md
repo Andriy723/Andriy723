@@ -3,7 +3,7 @@
 </p>
 <h2 align="center"> I`m Andrii!<br>A student of LPNU from Ukraine</h2>
 
-<br>
+<br><br>
 
 <div align="left">
   <h2> Connect with me: </h2>
