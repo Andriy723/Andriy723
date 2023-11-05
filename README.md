@@ -5,6 +5,19 @@
 
 <br>
 
+### Connect with me:
+
+[![website](./img/youtube-light.svg)]([https://youtube.com/codestackr](https://www.youtube.com/channel/UCSvIzCteyZh9sVV9oPVU42w)#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)]([https://youtube.com/codestackr](https://www.youtube.com/channel/UCSvIzCteyZh9sVV9oPVU42w)#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)]([https://linkedin.com/in/codeSTACKr](https://www.linkedin.com/in/%D0%B0%D0%BD%D0%B4%D1%80%D1%96%D0%B9-%D0%BF%D0%BB%D1%96%D1%88-0bb1b124b/)#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)]([https://linkedin.com/in/codeSTACKr](https://www.linkedin.com/in/%D0%B0%D0%BD%D0%B4%D1%80%D1%96%D0%B9-%D0%BF%D0%BB%D1%96%D1%88-0bb1b124b/)#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/cu_cum_beer#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/cu_cum_beer#gh-dark-mode-only)
+
+<br>
+
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
