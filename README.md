@@ -55,6 +55,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> 
   </a> 
+  <img src="https://weather-icon.journeyad.repl.co/@shenzhen?v=1" align="right">
 
 <br>
   
@@ -76,7 +77,6 @@
   <a href="https://spring.io/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="60" height="60"/> 
   </a> 
-  <img src="https://weather-icon.journeyad.repl.co/@shenzhen?v=1" align="right">
 </p>
 
 <br><br>
