@@ -6,7 +6,7 @@
 <br><br>
 
 <div align="left">
-  <h2> Connect with me: </h2>
+                                                   <h2> Connect with me: </h2>
 <a href="https://www.instagram.com/cu_cum_beer/">
   <img height="30" src="./images/instagram-dark.svg"/>
 </a>
