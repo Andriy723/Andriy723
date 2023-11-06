@@ -57,7 +57,7 @@
   </a> 
   <img align="right" src="https://weather-icon.journeyad.repl.co/@lviv?v=1" align="right" width="280" height="140">
 
-<br><br>
+<br>
 
   <a href="https://kotlinlang.org" target="_blank">
     <img align="center" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="50" height="50"/> 
@@ -78,7 +78,7 @@
     <img align="center" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50"/> 
   </a> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img align="center" src="https://user-images.githubusercontent.com/93161863/182043783-7af4a367-6eb1-4810-90d4-2bc15234a0b0.png" alt="figma" width="38" height="50"/> 
+    <img align="center" src="https://user-images.githubusercontent.com/93161863/182043783-7af4a367-6eb1-4810-90d4-2bc15234a0b0.png" alt="figma" width="34" height="47"/> 
   </a>
 </p>
 
