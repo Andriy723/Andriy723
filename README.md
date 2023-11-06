@@ -55,16 +55,16 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> 
   </a> 
-  <img src="https://weather-icon.journeyad.repl.co/@shenzhen?v=1" align="right" width="280" height="140">
-
-<br>
-  
   <a href="https://kotlinlang.org" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="60" height="60"/> 
   </a> 
   <a href="https://www.mysql.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> 
-  </a> 
+  </a>
+  <img src="https://weather-icon.journeyad.repl.co/@shenzhen?v=1" align="right" width="280" height="140">
+
+<br>
+   
   <a href="https://nodejs.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> 
   </a> 
