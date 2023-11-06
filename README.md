@@ -77,6 +77,9 @@
   <a href="https://spring.io/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50"/> 
   </a> 
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+    <img align="center" src="https://user-images.githubusercontent.com/93161863/182043783-7af4a367-6eb1-4810-90d4-2bc15234a0b0.png" alt="figma" width="50" height="50"/> 
+  </a>
 </p>
 
 <br>
