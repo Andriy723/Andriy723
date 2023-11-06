@@ -94,6 +94,7 @@
 </p>
 
 <p align="left">
-  <img width="160%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=footer"/>
+  <img width="160%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img width="160%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
   <img width="160%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
