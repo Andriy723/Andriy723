@@ -93,16 +93,6 @@
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Andriy723&theme=highcontrast&hide_border=true" alt="Andriy723" />
 </p>
 
-<img width="160%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-  <img width="160%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-  <img width="160%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-  <img width="160%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-
 <p align="left">
-  <img width="160%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-  <img width="160%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-  <img width="160%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-  <img width="160%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-  <img width="160%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
   <img width="160%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
