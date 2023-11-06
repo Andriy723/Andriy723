@@ -1,12 +1,12 @@
 <p align="center">
   <img width="160%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
-<h1 align="center"> I`m Andrii!🌫 <br> A student of LPNU from Ukraine</h1>
+<h1 align="center"> I`m Andrii!🌫 <br> IoT student of LPNU from Ukraine</h1>
 
 <br><br>
 
 <div align="left">
-                                                   <h2> Connect with me: </h2>
+<h2> Connect with me: </h2>
 <a href="https://www.instagram.com/cu_cum_beer/">
   <img height="30" src="./images/instagram-dark.svg"/>
 </a>
@@ -75,7 +75,7 @@
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> 
   </a> 
   <a href="https://spring.io/" target="_blank"> 
-    <img align="center" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50"/> 
+    <img align="center" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="45" height="45"/> 
   </a> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img align="center" src="https://user-images.githubusercontent.com/93161863/182043783-7af4a367-6eb1-4810-90d4-2bc15234a0b0.png" alt="figma" width="34" height="47"/> 
