@@ -1,7 +1,9 @@
 <p align="center">
-  <img width="160%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi there!&height=100&section=header"/>
+  <img width="160%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi_there!&height=100&section=header"/>
 </p>
 <h1 align="center"> I`m Andrii!🌫 <br> IoT student of LPNU from Ukraine</h1>
+
+<a href="https://u8views.com/github/Andriy723"><img src="https://u8views.com/api/v1/github/profiles/113835398/views/day-week-month-total-count.svg"></a>
 
 <br><br>
 
@@ -79,8 +81,6 @@
 </p>
 
 <br>
-
-<a href="https://u8views.com/github/Andriy723"><img src="https://u8views.com/api/v1/github/profiles/113835398/views/day-week-month-total-count.svg"></a>
 
 <br>
 
