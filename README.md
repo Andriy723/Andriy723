@@ -7,25 +7,27 @@ Full-Stack Developer from 🇺🇦 Ukraine
 </h3>
 
 <p align="center">
-Building scalable web applications with React, Next.js, NestJS & TypeScript.
+Building modern web applications with Next.js, React and TypeScript.
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 - 💼 Full-Stack Developer with **2+ years of commercial experience**
-- ⚛️ Specialized in **React, Next.js, TypeScript and NestJS**
-- 🚀 Passionate about building modern, performant web applications
-- 🤖 Using AI tools (Cursor & Claude Code) to accelerate development while independently driving architecture, business logic, debugging and code quality
-- 🌱 Always learning new technologies and improving engineering practices
-- 📍 Based in Ukraine
+- ⚛️ **2+ years** of commercial experience with **Next.js**
+- ⚛️ **2+ years** of commercial experience with **React**
+- 📱 Non-commercial experience with **React Native**
+- 💙 Passionate about clean architecture, scalable applications and great UX
+- 🤖 I use AI tools such as **Cursor**, **Claude Code**, and **ChatGPT** to boost productivity while independently designing architecture, implementing business logic, solving problems, debugging, and maintaining code quality.
+- 📍 Ukraine
 
 ---
 
-## 🤝 Connect with Me
+# 🤝 Connect with Me
 
 <p align="left">
+
 <a href="https://www.linkedin.com/in/андрій-пліш-0bb1b124b/">
 <img height="34" src="./images/linkedin-dark.svg"/>
 </a>
@@ -37,11 +39,12 @@ Building scalable web applications with React, Next.js, NestJS & TypeScript.
 <a href="https://www.youtube.com/channel/UCSvIzCteyZh9sVV9oPVU42w">
 <img height="34" src="./images/youtube-dark.svg"/>
 </a>
+
 </p>
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 <p align="center">
 
@@ -50,6 +53,10 @@ Building scalable web applications with React, Next.js, NestJS & TypeScript.
 </a>
 
 <a href="https://react.dev">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
+</a>
+
+<a href="https://reactnative.dev">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
 </a>
 
@@ -67,10 +74,6 @@ Building scalable web applications with React, Next.js, NestJS & TypeScript.
 
 <a href="https://ui.shadcn.com">
 <img src="https://ui.shadcn.com/favicon.ico" width="40"/>
-</a>
-
-<a href="https://nodejs.org">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
 </a>
 
 <a href="https://www.postgresql.org">
@@ -105,9 +108,9 @@ Building scalable web applications with React, Next.js, NestJS & TypeScript.
 
 ---
 
-## 🤖 AI-Assisted Development
+# 🤖 AI-Assisted Development
 
-I use AI as a productivity multiplier, not as a replacement for engineering.
+I use AI as a productivity multiplier—not as a replacement for engineering.
 
 **Daily tools**
 
@@ -115,7 +118,7 @@ I use AI as a productivity multiplier, not as a replacement for engineering.
 - Claude Code
 - ChatGPT
 
-AI helps me speed up repetitive tasks while I remain fully responsible for:
+AI helps me accelerate implementation while I remain fully responsible for:
 
 - Software architecture
 - Business logic
@@ -126,53 +129,13 @@ AI helps me speed up repetitive tasks while I remain fully responsible for:
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true"/>
 
 </p>
 
