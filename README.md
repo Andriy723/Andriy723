@@ -132,14 +132,23 @@ AI helps me accelerate implementation while I remain fully responsible for:
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Andriy723&show_icons=true&theme=transparent&hide_border=true"/>
-
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Andriy723&show_icons=true&theme=transparent&hide_border=true&count_private=true"/>
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andriy723&layout=compact&theme=transparent&hide_border=true"/>
+</p>
 
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Andriy723&theme=transparent&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Andriy723&theme=flat&no-frame=true&row=1&column=6&margin-w=8"/>
 </p>
 
 ---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Andriy723&style=flat&color=blue&label=Profile+Views"/>
+</p>
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
