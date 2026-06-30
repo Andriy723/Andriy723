@@ -132,10 +132,9 @@ AI helps me accelerate implementation while I remain fully responsible for:
 # 📊 GitHub Stats
 
 <p align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Andriy723&show_icons=true&theme=transparent&hide_border=true&count_private=true"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andriy723&layout=compact&theme=transparent&hide_border=true"/>
+<img src="profile/stats.svg" width="48%"/>
+<img src="profile/languages.svg" width="48%"/>
 </p>
-
 <p align="center">
 <img src="profile/streak.svg"/>
 </p>
