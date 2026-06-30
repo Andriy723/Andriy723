@@ -69,10 +69,6 @@ Building scalable web applications with React, Next.js, NestJS & TypeScript.
 <img src="https://ui.shadcn.com/favicon.ico" width="40"/>
 </a>
 
-<a href="https://nestjs.com">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="45"/>
-</a>
-
 <a href="https://nodejs.org">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
 </a>
