@@ -133,9 +133,9 @@ AI helps me accelerate implementation while I remain fully responsible for:
 
 <p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Andriy723&show_icons=true&theme=transparent&hide_border=true"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andriy723&layout=compact&theme=transparent&hide_border=true"/>
 
 </p>
 
