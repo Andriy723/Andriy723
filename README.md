@@ -14,10 +14,9 @@ Building modern web applications with Next.js, React and TypeScript.
 
 # 👨‍💻 About Me
 
-- 💼 Full-Stack Developer with **2+ years of commercial experience**
-- ⚛️ **2+ years** of commercial experience with **Next.js**
-- ⚛️ **2+ years** of commercial experience with **React**
-- 📱 Non-commercial experience with **React Native**
+- 💼 Full-Stack Developer with **2+ years of commercial experience in building wed applications**
+- ⚛️ **1+ years** of commercial experience with **Next.js**, **Typescript**, **Tailwind**, **PostgreSQL**, **MySQL**, **Node.js**, **Express.js** and **React**
+- 📱 Non-commercial experience with **React Native**, **Java**, **Python** and **Firebase**
 - 💙 Passionate about clean architecture, scalable applications and great UX
 - 🤖 I use AI tools such as **Cursor**, **Claude Code**, and **ChatGPT** to boost productivity while independently designing architecture, implementing business logic, solving problems, debugging, and maintaining code quality.
 - 📍 Ukraine
